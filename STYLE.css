@@ -1,0 +1,54 @@
+body {
+    font-size: 30px;
+    text-align:top;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+#img1{
+    border-radius: 70%;
+    height: 50px;
+    
+}
+#home {
+   display:table;
+    width:100%;
+    height:100%;t
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    color:darkcyan;
+    z-index: 9;
+}
+#sec2 {
+    padding-left:500px;
+}
+p{
+    max-width: 500px;
+    text-align: center;
+}
+.divTAG2 {
+    display: table-cell;
+    position:relative;
+    text-align:center;
+    vertical-align: middle;
+    
+}
+.my_nav_bar
+
+{ position:sticky; top:0; z-index:99999 }
+.divtaggers a
+{
+    color:chocolate;
+    text-shadow: none;
+        
+}
+.divtaggers h2 {
+    display: inline;
+}
+#contact {
+    background: blue;
+}
